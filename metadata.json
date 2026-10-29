@@ -1,0 +1,6 @@
+{
+  "name": "Sapataria Nobre Couro - Orçamento WhatsApp",
+  "description": "Site moderno e responsivo para Sapataria Artesanal e Conserto de Calçados com escolha interativa de serviços e envio direto para o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
